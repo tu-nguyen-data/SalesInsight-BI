@@ -100,7 +100,11 @@ Les données sont fictives et représentent l’activité commerciale d’une en
 
 \- Meilleur client : Vincent
 
+## Aperçu du dashboard
 
+![Top des mois par CA](images/Top_mois_par_CA.png)
+
+![CA par canal de vente](images/CA_par_canal_vente.png)
 
 \## Machine Learning
 
