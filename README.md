@@ -12,7 +12,7 @@ SalesInsight BI est un projet personnel de Business Intelligence et Data Analysi
 
 L’objectif est d’analyser les ventes, identifier les meilleurs canaux de vente, les produits les plus performants, les clients les plus rentables et développer un modèle de Machine Learning pour prédire les commandes de forte valeur.
 
-
+Ce projet a été réalisé dans le cadre de ma préparation au Master MIAGE — parcours Ingénierie des Données et Analyses.
 
 \## Objectifs
 
